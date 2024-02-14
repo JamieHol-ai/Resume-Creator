@@ -11,7 +11,7 @@ Jamie Holroyde
   <tr>
     <td>jamieholroyde@gmail.com</td>
     <td>07465992898</td>
-    <td><a href="https://www.linkedin.com/in/jamieholroyde">LinkedIn</a></td>
+    <td><a href="https://www.linkedin.com/in/jamieholroyde">linkedin.com/in/jamieholroyde</a></td>
   </tr>
 </table>
 
