@@ -1,19 +1,9 @@
 Jamie Holroyde
 ============
 
-<!-- Adding the table at the top with contact details--> 
-<table style="width:100%">
-  <tr>
-    <th>Email</th>
-    <th>Phone Number</th>
-    <th>LinkedIn</th>
-  </tr>
-  <tr>
-    <td>jamieholroyde@gmail.com</td>
-    <td>07465992898</td>
-    <td><a href="https://www.linkedin.com/in/jamieholroyde">linkedin.com/in/jamieholroyde</a></td>
-  </tr>
-</table>
+| Email | Phone Number | LinkedIn |
+| --- | --- | --- |
+| jamieholroyde@gmail.com | 07465992898 | [linkedin.com/in/jamieholroyde](https://www.linkedin.com/in/jamieholroyde) |
 
 Summary
 ---
@@ -21,32 +11,43 @@ I am an eager to learn, analytical and determined aspiring Software Engineer wit
 
 Experience
 ---
-**Sep 2023 - Present | Localisation and Mapping Software Engineer**  
-*Edinburgh University Formula Student*  
-- Working as part of a small team improving the localisation and mapping aspect for designing a self-driving Formula 1 race car.
-- Advancing my **communication skills** such as coordinating efforts and sharing ideas.
-- Utilising SLAM algorithms, integrating various sensors, working with Python and C++, which has helped me to improve my **technical skills** in these areas.
-- Expanding my experience of using different tools and platforms.
-- Our team peer reviews work, which has given me experience of giving and receiving constructive feedback and learning from my peers.
+Sep 2023 - Present
+:   **Localisation and Mapping Software Engineer**; Edinburgh University Formula Student
 
-**Dec 2022 - Nov 2023 (1 year) | Ambassador**  
-*Meet and Code*  
-- Served as the European ambassador for Meet and Code, Europe's largest coding charity.
-- This involved speaking in webinars to 100+ people, and to high-profile companies such as Amazon.
+    - Working as part of a small team improving the localisation and mapping aspect for designing a self-driving Formula 1 race car.
+    - Advancing my **communication skills** such as coordinating efforts and sharing ideas.
+    - Utilising SLAM algorithms, integrating various sensors, working with Python and C++, which has helped me to improve my **technical skills** in these areas.
+    - Expanding my experience of using different tools and platforms.
+    - Our team peer reviews work, which has given me experience of giving and receiving constructive feedback and learning from my peers.
 
-**Dec 2021 - Jul 2023 (1 year 8 months) | Coding Tutor**  
-*Cromar Future Group*  
-- Led weekly group sessions which ranged in topics from Unity to Python.
-- This role has enhanced my **interpersonal, communication and organisational skills**.
+Feb 2024 - Present
+:   **Software Support Engineer**; Caydale Consulting LTD
 
-**Aug 2021 - Apr 2023 (1 year 9 months) | President**  
-*Banchory Academy's Public Speaking and Debating Society*  
-- Competed in national debating competitions, and led weekly sessions to a group of young people covering public speaking and constructing a convincing argument.
+    - Working with end-users of software and systems to provide technical support and assistance for their software, hardware or technical problems including connection, slow performance, inability to access data, or inefficient programs. 
+
+Dec 2022 - Nov 2023 
+:   **Ambassador**; Meet and Code
+
+    - Served as the European ambassador for Meet and Code, Europe's largest coding charity.
+    - This involved speaking in webinars to 100+ people, and to high-profile companies such as Amazon.
+    - Developed my **public speaking and presentation skills**.
+
+Dec 2021 - Jul 2023 
+:   **Coding Tutor**; Cromar Future Group
+
+    - Led weekly group sessions which ranged in topics from Unity to Python.
+    - This role has enhanced my **interpersonal, communication and organisational skills**.
+
+Aug 2021 - Apr 2023
+:   **President**; Banchory Academy's Public Speaking and Debating Society
+
+    - Competed in national debating competitions, and led weekly sessions to a group of young people covering public speaking and constructing a convincing argument.
+    - This role has improved my **leadership and public speaking skills**.
 
 Education
 ---------
 
-Apr 2023 - Jun 2028 (expected)
+Apr 2023 - Jun 2028
 :   **Master of Informatics (MInf)**; The University of Edinburgh
 
     First year courses: Introduction to Computation, Introduction to Linear Algebra, Object Orientated Programming, Applications of Calculus, Cognitive Science, and Planning a Startup
@@ -61,24 +62,31 @@ Aug 2017 - Apr 2023
 
     Activites and Societies: elected President of the school's pupil run public speaking and debating club, Senior House Captain, pianist in the school's Soul Band, lead violinist of the school's orchestra
 
+Skills
+----
+Python   •   Robot Operating System (ROS)   •   Gitlab   •   SLAM   •   Communication   •   Teaching   •   Unreal
+Engine 4   •   Unity   •   C++   •   Public Speaking   •   Leadership
+
 Honours & Awards
 ----------
-**School Dux Prize 2023 (Valedictorian)** - Banchory Academy  
-Jun 2023  
-\
-**Accepted the Queen's Award for Voluntary Service on behalf of Cromar Future Group**
+Jun 2023
+:   **School Dux Prize 2023 (Valedictorian)**; Banchory Academy  
+
 Jun 2022
-Accepted the Queen's Award for Voluntary Service, the highest award a voluntary group can receive in the UK, on behalf of Cromar Future Group in my capacity as Python tutor.
-\
-**Achieved a Gold CREST award** - British Science Association
+:   **Accepted the Queen's Award for Voluntary Service**; Cromar Future Group
+
+    Accepted the Queen's Award for Voluntary Service, the highest award a voluntary group can receive in the UK, on behalf of Cromar Future Group in my capacity as Python tutor.
+
 Dec 2020
-For my Gold Crest award, I designed, built and programmed a 3D roomm scanner. This comprised a distance sensor mounted on a pan and tilt unit run using C++ and Python with the reconstruction displayed as part of a GUI.
-\
-**Winner of International CoderDojo competition** - CoderDojo
+:   **Achieved a Gold CREST award**; British Science Association
+
+    For my Gold Crest award, I designed, built and programmed a 3D roomm scanner. This comprised a distance sensor mounted on a pan and tilt unit run using C++ and Python with the reconstruction displayed as part of a GUI.
+
 Jan 2019
-Winner of the Games, Digital art and animation category of the CoderDojo gratitude competition. This project involved simulating the planetary orbits, according to Kepler's Law's of planetary motion.
-\
-jamieholroyde@gmail.com • 07465992898
+:   **Winner of International CoderDojo competition**; CoderDojo
+
+    Winner of the Games, Digital art and animation category of the CoderDojo gratitude competition. This project involved simulating the planetary orbits, according to Kepler's Law's of planetary motion.
+
 <!--
 
 Technical Experience
