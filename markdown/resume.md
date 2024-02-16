@@ -72,7 +72,7 @@ Jun 2023
 :   **School Dux Prize 2023 (Valedictorian)**; Banchory Academy  
 
 Jun 2022
-:   **Accepted the Queen's Award for Voluntary Service**; Cromar Future Group
+:   **Queen's Award for Voluntary Service**; Cromar Future Group
 
     Accepted the Queen's Award for Voluntary Service, the highest award a voluntary group can receive in the UK, on behalf of Cromar Future Group in my capacity as Python tutor.
 
