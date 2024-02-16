@@ -7,7 +7,7 @@ Jamie Holroyde
 
 Summary
 ---
-I am an eager to learn, analytical and determined aspiring Software Engineer with a strong interest in Data Science & Machine Learning currently studying towards an integrated Masters in Informatics at the University of Edinburgh.
+I am an eager to learn, analytical and determined aspiring Software Engineer with a strong interest in Data Science & Machine Learning currently studying towards an Integrated Masters in Informatics at The University of Edinburgh.
 
 Experience
 ---
@@ -41,8 +41,7 @@ Dec 2021 - Jul 2023
 Aug 2021 - Apr 2023
 :   **President**; Banchory Academy's Public Speaking and Debating Society
 
-    - Competed in national debating competitions, and led weekly sessions to a group of young people covering public speaking and constructing a convincing argument.
-    - This role has improved my **leadership and public speaking skills**.
+    - Competed in national debating competitions, and led weekly sessions to a group of young people covering public speaking and constructing a convincing argument which improved my **leadership and public speaking skills**.
 
 Education
 ---------
