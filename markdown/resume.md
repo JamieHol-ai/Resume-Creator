@@ -49,7 +49,7 @@ Education
 Apr 2023 - Jun 2028
 :   **Master of Informatics (MInf)**; The University of Edinburgh
 
-    First year courses: Introduction to Computation, Introduction to Linear Algebra, Object Orientated Programming, Applications of Calculus, Cognitive Science, and Planning a Startup
+    First year courses: Introduction to Computation, Introduction to Linear Algebra, Object Orientated Programming, Applications of Calculus, Cognitive Science, and Planning a Business Startup
 
 Aug 2017 - Apr 2023
 :   Banchory Academy (Aberdeenshire)
